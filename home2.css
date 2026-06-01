@@ -195,7 +195,8 @@ body{
     text-decoration:none;
     background:rgba(255,255,255,0.15);
     backdrop-filter:blur(10px);
-    margin-top:20px;
+        position:relative;
+    top:30px;
 }
 
 /* .portfolio-btn{
