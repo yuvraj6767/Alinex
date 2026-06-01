@@ -196,7 +196,7 @@ body{
     background:rgba(255,255,255,0.15);
     backdrop-filter:blur(10px);
     position:relative;
-    top:60px;
+    top:100px;
 }
 
 /* .portfolio-btn{
