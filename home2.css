@@ -197,6 +197,18 @@ body{
     backdrop-filter:blur(10px);
 }
 
+/* .portfolio-btn{
+    display:inline-block;
+    margin-top:25px;
+    padding:12px 28px;
+    border-radius:50px;
+    background:rgba(255,255,255,0.2);
+    backdrop-filter:blur(10px);
+    color:white;
+    text-decoration:none;
+    font-weight:500;
+} */
+
 @keyframes scroll{
     from{
         transform:translateX(0);
